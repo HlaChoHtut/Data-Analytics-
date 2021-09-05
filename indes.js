@@ -8,4 +8,4 @@ menuBtn.addEventListener('click', () => {
 
 backBtn.addEventListener('click', () => {
     menu.style.transform = 'translateX(-100%)';
-})
+})  
